@@ -39,7 +39,7 @@
     <entity-ids>
       <counter>
         <item-type type-id="group" type="Group" />
-        <value>999</value>
+        <value>1008</value>
       </counter>
       <counter>
         <item-type type-id="erd-entity" type="Entity" />
@@ -118,6 +118,16 @@
         <description />
         <color>#00000000</color>
         <working-schedule uid="ws-3bde09dd0ba44342a6584ca2a9bdb15b" hours="8" monday="8" tuesday="8" wednesday="8" thursday="8" friday="8" saturday="0" sunday="0" />
+      </person>
+      <person id="">
+        <first-name>Анастасия</first-name>
+        <last-name>Краснолуцкая</last-name>
+        <role />
+        <e-mail />
+        <phone-number />
+        <description />
+        <color>#00000000</color>
+        <working-schedule uid="ws-15fda95118b0472eb51385a915d9b39f" hours="8" monday="8" tuesday="8" wednesday="8" thursday="8" friday="8" saturday="0" sunday="0" />
       </person>
       <person id="">
         <first-name>Анастасия</first-name>
@@ -449,19 +459,19 @@
             <relation from="5fcf274436c24d9d81231b6c58cbcb16" from-iid="98c5c746f7dc43da993efe477dc1b736" from-field="ab00020b0aa244ee19c455f9d221dc6f9203" to="dibf5525e63bb8454cbb3e31f0ddab392e2572" to-iid="8d5b988918024bdbaf5ec05787f3713b" to-field="aa6e3f9c4bfb24ac39fb55615ef98858d941" />
           </item>
           <item id="8855fff6240f4a48ba02cde83b65e343" iid="6ea0d6142da44fed918bdaacef7e89d0" creation-date="06/10/2024 08:19:06" order-index="9" type="relation">
-            <layout start-role-position="25,15" end-role-position="25,-15" line-style="oblique" lock-start-point="true" lock-to-fields="true" auto-path="" x1="480" y1="379" x2="390" y2="310" start-border-pos="0.863888888888889" end-border-pos="0.424583333333333" start-local-pos="49" end-local-pos="210" name-position="0,20">
+            <layout start-role-position="25,15" end-role-position="25,-15" line-style="oblique" lock-start-point="true" lock-to-fields="true" auto-path="" x1="480" y1="379" x2="390" y2="290" start-border-pos="0.863888888888889" end-border-pos="0.40875" start-local-pos="49" end-local-pos="190" name-position="0,20">
               <points>
                 <point x="480" y="379" />
-                <point x="390" y="310" />
+                <point x="390" y="290" />
               </points>
             </layout>
             <relation from="dibf5525e63bb8454cbb3e31f0ddab392e2572" from-iid="8d5b988918024bdbaf5ec05787f3713b" from-field="aa6e3f9c4bfb24ac39fb55615ef98858d941" to="646694d6a2504176bdd30c7caaa9bff6" to-iid="ec1926629a7a42778f37c98f1f73d355" to-field="a157c03fd35984a27b3cdbc6e8867482b546" />
           </item>
           <item id="51f8444f70fc482cb6ad6a87bd178d12" iid="0806b6f05c32415e96f410d47760c749" creation-date="06/10/2024 08:19:40" order-index="10" type="relation">
-            <layout start-role-position="25,15" end-role-position="25,-15" line-style="oblique" lock-start-point="true" lock-to-fields="true" auto-path="" x1="450" y1="249" x2="390" y2="281" start-border-pos="0.888636363636364" end-border-pos="0.400833333333333" start-local-pos="49" end-local-pos="181" name-position="0,20">
+            <layout start-role-position="25,15" end-role-position="25,-15" line-style="oblique" lock-start-point="true" lock-to-fields="true" auto-path="" x1="450" y1="249" x2="390" y2="262" start-border-pos="0.888636363636364" end-border-pos="0.385" start-local-pos="49" end-local-pos="162" name-position="0,20">
               <points>
                 <point x="450" y="249" />
-                <point x="390" y="281" />
+                <point x="390" y="262" />
               </points>
             </layout>
             <relation from="827f50e13c1e4fd1961566501e8e881c" from-iid="8242926e53574e15b2bf4e356049815c" from-field="aa6e3f9c4bfb24ac39fb55615ef98858d941" to="646694d6a2504176bdd30c7caaa9bff6" to-iid="ec1926629a7a42778f37c98f1f73d355" to-field="ab025b1b772414080bd0944cbb3789bdc667" />
@@ -485,7 +495,7 @@
             <relation from="646694d6a2504176bdd30c7caaa9bff6" from-iid="ec1926629a7a42778f37c98f1f73d355" from-field="aa0926281045f49099c9d8918937ba0e91" to="12846495d5ad4bf68d529e1be1430b01" to-iid="f682da35d5d44a5b9b60a7c9bfe1dbf8" to-field="a45d114d1bcfd4b02bd988300d6422c93849" />
           </item>
           <item id="149e7b14dfd24011beb3864944b0bc6d" iid="dfcfec44d97647ec8a1954bf47f3bc6f" creation-date="06/10/2024 08:23:07" order-index="18" type="relation">
-            <layout start-role-position="25,15" end-role-position="25,-15" line-style="oblique" lock-end-point="true" lock-to-fields="true" auto-path="" x1="-224" y1="389" x2="110" y2="328" start-border-pos="0.344230769230769" end-border-pos="0.809583333333333" start-local-pos="49" end-local-pos="248" name-position="0,20">
+            <layout start-role-position="25,15" end-role-position="25,-15" line-style="oblique" lock-end-point="true" lock-to-fields="true" auto-path="" x1="-224" y1="389" x2="110" y2="328" start-border-pos="0.344230769230769" end-border-pos="0.809583333333333" start-local-pos="49" end-local-pos="228" name-position="0,20">
               <points>
                 <point x="-224" y="389" />
                 <point x="110" y="328" />
@@ -494,7 +504,7 @@
             <relation from="di88ed8c19fb2a46ba8f0395c18c606ff54983" from-iid="3fda9795dd5a43d89486acd20056ca6b" from-field="a6815419782bd4ab5875cf995b094354e769" to="646694d6a2504176bdd30c7caaa9bff6" to-iid="ec1926629a7a42778f37c98f1f73d355" to-field="a62953cfc34e448209eb75bb1521e5e97293" />
           </item>
           <item id="0bbbf556ab6642239dbcd27222200828" iid="8e9019c9e87a4dddbac7d58e62bc5085" creation-date="06/10/2024 08:23:13" order-index="19" type="relation">
-            <layout start-role-position="25,15" end-role-position="25,-15" line-style="oblique" lock-start-point="true" lock-end-point="true" lock-to-fields="true" auto-path="" x1="21" y1="458" x2="110" y2="348" start-border-pos="0.369791666666667" end-border-pos="0.79375" start-local-pos="58" end-local-pos="266" name-position="0,20">
+            <layout start-role-position="25,15" end-role-position="25,-15" line-style="oblique" lock-start-point="true" lock-end-point="true" lock-to-fields="true" auto-path="" x1="21" y1="458" x2="110" y2="348" start-border-pos="0.369791666666667" end-border-pos="0.79375" start-local-pos="58" end-local-pos="248" name-position="0,20">
               <points>
                 <point x="21" y="458" />
                 <point x="110" y="348" />
@@ -560,7 +570,7 @@
             <erd-entity show-nullability="true" />
           </item>
           <item id="860f6df7411146aba63f49d3ddbef727" iid="1bf746cdcf984f04bed140238564a7b4" creation-date="06/10/2024 15:03:56" order-index="26" type="relation">
-            <layout start-role-position="25,15" end-role-position="25,-15" line-style="oblique" lock-start-point="true" lock-to-fields="true" auto-path="" x1="46" y1="279" x2="110" y2="310" start-border-pos="0.386111111111111" end-border-pos="0.825416666666667" start-local-pos="49" end-local-pos="228" name-position="0,20">
+            <layout start-role-position="25,15" end-role-position="25,-15" line-style="oblique" lock-start-point="true" lock-to-fields="true" auto-path="" x1="46" y1="279" x2="110" y2="310" start-border-pos="0.386111111111111" end-border-pos="0.825416666666667" start-local-pos="49" end-local-pos="210" name-position="0,20">
               <points>
                 <point x="46" y="279" />
                 <point x="110" y="310" />
@@ -579,7 +589,7 @@
           </item>
         </layer>
       </diagram>
-      <diagram type="flowchart" id="p1d49a18ef1ae4dc992302e0335bdf252_161825595" name="FlowchartDiagram1" order-index="2" overview-order-index="0" uid="" show-id="false" show-name="true" show-parent-name="false" name-style="local-auto-parents" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-field-tags="true" show-empty-compartments="true" show-special-indicators="false" show-rules="true" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-visibility-sign="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-data="true" show-description="false" show-field-description="false" auto-routed-paths="false" default-line-style="default" view-location="0,2082">
+      <diagram type="flowchart" id="p1d49a18ef1ae4dc992302e0335bdf252_161825595" name="FlowchartDiagram1" order-index="2" overview-order-index="0" uid="" show-id="false" show-name="true" show-parent-name="false" name-style="local-auto-parents" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-field-tags="true" show-empty-compartments="true" show-special-indicators="false" show-rules="true" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-visibility-sign="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-data="true" show-description="false" show-field-description="false" auto-routed-paths="false" default-line-style="default" view-location="0,1755">
         <style>
           <background-color index="1" color="#FFFFFFFF" />
           <background-color index="2" color="#FFFFFFFF" />
@@ -1650,7 +1660,7 @@
           </item>
         </layer>
       </diagram>
-      <diagram type="flowchart" id="p1b0d045a03c7475a8d661c87ef5e3e84_541934380" name="FlowchartDiagram2" order-index="3" overview-order-index="1" uid="" show-id="false" show-name="true" show-parent-name="false" name-style="local-auto-parents" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-field-tags="true" show-empty-compartments="true" show-special-indicators="false" show-rules="true" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-visibility-sign="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-data="true" show-description="false" show-field-description="false" auto-routed-paths="false" default-line-style="default" view-location="-214,-47">
+      <diagram type="flowchart" id="p1b0d045a03c7475a8d661c87ef5e3e84_541934380" name="FlowchartDiagram2" order-index="3" overview-order-index="1" uid="" show-id="false" show-name="true" show-parent-name="false" name-style="local-auto-parents" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-field-tags="true" show-empty-compartments="true" show-special-indicators="false" show-rules="true" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-visibility-sign="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-data="true" show-description="false" show-field-description="false" auto-routed-paths="false" default-line-style="default" view-location="-125,1116">
         <style>
           <background-color index="1" color="#FFFFFFFF" />
           <background-color index="2" color="#FFFFFFFF" />
@@ -1669,7 +1679,7 @@
         <abstract-items>
           <item id="466f8bd697de4d498a738228dcee3c99" cid="ELEM004" type="flowchart-start-end" name="начало" style-class="" change-tracking-state="added" creator="" creation-date="06/12/2024 11:23:02" />
           <item id="035c8ac92bd5402fb2fcf0ecd9b10e87" cid="ELEM005" type="flowchart-start-end" name="конец" style-class="" change-tracking-state="added" creator="" creation-date="06/12/2024 11:23:05" />
-          <item id="fe1775d047e34e5fbe50846b3567691c" cid="FCP013" type="flowchart-process" name="Сформировать запрос для получения общей суммы разницы между датой окончания работ и датой начала выполненных заявок" style-class="" change-tracking-state="added" creator="" creation-date="06/12/2024 12:27:53" />
+          <item id="fe1775d047e34e5fbe50846b3567691c" cid="FCP013" type="flowchart-process" name="Сформировать запрос для получения общей суммы разницы между датой окончания работ и датой начала для каждой из выполненных заявок" style-class="" change-tracking-state="added" creator="" creation-date="06/12/2024 12:27:53" />
           <item id="a6824ad6b6764ab5a229720010d4c75a" cid="FCP012" type="flowchart-process" name="Подключиться к БД" style-class="" change-tracking-state="added" creator="" creation-date="06/12/2024 11:24:32" />
           <item id="fb4724fb02dc4e64bcb40cab6e6c8cc6" cid="FCDC005" type="flowchart-decision" name="Запрос выполнился без ошибки?" style-class="" change-tracking-state="added" creator="" creation-date="06/12/2024 12:29:02" />
           <item id="e247dc0121164db4bc9ddf20efe75dc9" cid="FCDT003" type="flowchart-data" name="Общая сумма дней для выполненных заявок" style-class="" change-tracking-state="added" creator="" creation-date="06/12/2024 12:29:47" />
@@ -1704,7 +1714,7 @@
             <layout ax="500" ay="170" awidth="150" aheight="60" x="500" y="170" width="150" height="60" rotation-center="187,0" />
           </item>
           <item id="fe1775d047e34e5fbe50846b3567691c" iid="5a35656b6ad743fb90d33342caa15398" creation-date="06/12/2024 12:27:53" order-index="4" type="entity">
-            <layout ax="400" ay="270" awidth="358" aheight="76" x="400" y="270" width="150" height="60" />
+            <layout ax="400" ay="270" awidth="358" aheight="96" x="400" y="270" width="150" height="60" />
           </item>
           <item id="fb4724fb02dc4e64bcb40cab6e6c8cc6" iid="c41283accbec4927858fbcc00c0ef55a" creation-date="06/12/2024 12:29:02" order-index="5" type="entity">
             <layout ax="500" ay="390" awidth="150" aheight="100" x="500" y="390" width="150" height="100" rotation-center="20,0" />
@@ -1749,9 +1759,9 @@
             <relation from="a6824ad6b6764ab5a229720010d4c75a" from-iid="7dfcd387b38e4b56a47e269b72819fec" to="fe1775d047e34e5fbe50846b3567691c" to-iid="5a35656b6ad743fb90d33342caa15398" />
           </item>
           <item id="ec32003b8b704a5b9c3c066e859ef36a" iid="ef11ec304cb94f8aaa26ae1ea2c1fb4d" creation-date="06/12/2024 12:38:43" order-index="12" type="relation">
-            <layout line-style="oblique" lock-start-point="true" lock-end-point="true" lock-to-fields="false" auto-path="" x1="579" y1="346" x2="575" y2="390" start-border-pos="0.625" end-border-pos="0.125" start-local-pos="179" end-local-pos="75" name-position="0,20">
+            <layout line-style="oblique" lock-start-point="true" lock-end-point="true" lock-to-fields="false" auto-path="" x1="579" y1="366" x2="575" y2="390" start-border-pos="0.625" end-border-pos="0.125" start-local-pos="179" end-local-pos="75" name-position="0,20">
               <points>
-                <point x="579" y="346" />
+                <point x="579" y="366" />
                 <point x="575" y="390" />
               </points>
             </layout>
@@ -1767,12 +1777,12 @@
             <relation from="fb4724fb02dc4e64bcb40cab6e6c8cc6" from-iid="c41283accbec4927858fbcc00c0ef55a" to="e247dc0121164db4bc9ddf20efe75dc9" to-iid="71bc2b3bd0a1415285cdb1e9fadaaf17" />
           </item>
           <item id="52c44383df0f4201996b42a53ef55e5f" iid="bf073aa842104e2ca7b0321dcdc4cf14" creation-date="06/12/2024 12:39:08" order-index="14" type="relation">
-            <layout line-style="oblique" lock-start-point="true" lock-end-point="true" lock-to-fields="false" auto-path="" x1="650" y1="440" x2="758" y2="308" start-border-pos="0.375" end-border-pos="0.375" start-local-pos="50" end-local-pos="38" name-position="-180,30">
+            <layout line-style="oblique" lock-start-point="true" lock-end-point="true" lock-to-fields="false" auto-path="" x1="650" y1="440" x2="758" y2="318" start-border-pos="0.375" end-border-pos="0.375" start-local-pos="50" end-local-pos="38" name-position="-180,30">
               <points>
                 <point x="650" y="440" />
                 <point x="870" y="440" />
-                <point x="870" y="310" />
-                <point x="758" y="308" />
+                <point x="870" y="320" />
+                <point x="758" y="318" />
               </points>
             </layout>
             <relation from="fb4724fb02dc4e64bcb40cab6e6c8cc6" from-iid="c41283accbec4927858fbcc00c0ef55a" to="fe1775d047e34e5fbe50846b3567691c" to-iid="5a35656b6ad743fb90d33342caa15398" />
